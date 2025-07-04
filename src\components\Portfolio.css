@@ -1,0 +1,15 @@
+.portfolio {
+  @apply py-12;
+}
+
+.portfolio h2 {
+  @apply text-2xl font-bold;
+}
+
+.portfolio ul {
+  @apply list-none;
+}
+
+.portfolio li {
+  @apply mb-2;
+}
