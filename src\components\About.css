@@ -1,0 +1,11 @@
+.about {
+  @apply py-12;
+}
+
+.about h2 {
+  @apply text-2xl font-bold;
+}
+
+.about p {
+  @apply text-lg;
+}
