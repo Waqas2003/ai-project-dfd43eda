@@ -1,0 +1,15 @@
+.services {
+  @apply py-12;
+}
+
+.services h2 {
+  @apply text-2xl font-bold;
+}
+
+.services ul {
+  @apply list-none;
+}
+
+.services li {
+  @apply mb-2;
+}
