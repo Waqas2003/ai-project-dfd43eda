@@ -1,0 +1,7 @@
+.footer {
+  @apply bg-gray-200 py-4;
+}
+
+.footer p {
+  @apply text-lg;
+}
