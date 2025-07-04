@@ -1,0 +1,15 @@
+.header {
+  @apply bg-gray-200 py-4;
+}
+
+.nav ul {
+  @apply flex justify-center;
+}
+
+.nav li {
+  @apply mr-4;
+}
+
+.nav a {
+  @apply text-gray-600 hover:text-gray-900;
+}
